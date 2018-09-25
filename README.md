@@ -1,5 +1,5 @@
 # java-gmp
-A Java wrapper for some commonly used integer functions in libgmp.
+A Java wrapper for some libgmp integer functions commonly used in cryptography.
 
 ## Usage:
 See the TestGMP.java file for examples of how to call the functions available in GMP.
